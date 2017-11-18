@@ -1,0 +1,5 @@
+.python-version
+db*
+.idea
+__pycache__
+*.pyc
