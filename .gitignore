@@ -3,3 +3,4 @@ db*
 .idea
 __pycache__
 *.pyc
+migrations
